@@ -1,5 +1,5 @@
 Hi 👋 My name is Farshid Mousavi
-================================Network Administrator And Sull Stack Web Developer--------------------------------------------------* 🖥️  See my portfolio at [Farshid Mousavi](http://Farshidmousavi.com)* ✉️  You can contact me at [s.farshid.mousavi@gmail.com](mailto:s.farshid.mousavi@gmail.com)
+================================Network Administrator And Full Stack Web Developer--------------------------------------------------* 🖥️  See my portfolio at [Farshid Mousavi](http://Farshidmousavi.com)* ✉️  You can contact me at [s.farshid.mousavi@gmail.com](mailto:s.farshid.mousavi@gmail.com)
 
 ### Skills
 
