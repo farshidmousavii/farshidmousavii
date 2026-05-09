@@ -1,15 +1,65 @@
-Hi 👋 My name is Farshid Mousavi
-================================Network Administrator And Full Stack Web Developer--------------------------------------------------* 🖥️  See my portfolio at [Farshid Mousavi](http://Farshidmousavi.com)* ✉️  You can contact me at [s.farshid.mousavi@gmail.com](mailto:s.farshid.mousavi@gmail.com)
+# Hi 👋 I'm Farshid Mousavi
 
-### Skills
+### Network & Systems Engineer | Backend Developer | Infrastructure Automation
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
-### Socials<p align="left"> <a href="https://www.github.com/farshidmousavii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+I work at the intersection of networking, Linux systems, backend development, and automation.
 
-### Badges
+My focus is building reliable infrastructure, automating operations, and developing tools that solve real operational problems.
 
-<b>My GitHub Stats</b>
+- 🔧 Building infrastructure-focused tools with Go & Python
+- 🐧 Linux, networking, containers, and self-hosted systems
+- 🌐 Cisco, MikroTik, VMware, Proxmox
+- ⚙️ Backend development with FastAPI, PostgreSQL, SQLAlchemy
+- 📚 Learning deeply: backend engineering, NetDevOps, and scalable system design
 
-<a href="http://www.github.com/farshidmousavii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=farshidmousavii&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/farshidmousavii"><img src="https://activity-graph.herokuapp.com/graph?username=farshidmousavii&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## Tech Stack
+
+### Infrastructure & Networking
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx)
+
+### Backend & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## Current Interests
+
+- Infrastructure Automation
+- NetDevOps
+- Observability & Monitoring
+- Backend Architecture
+- Self-hosted Services
+- High-performance APIs
+- Network Security
+
+---
+
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=farshidmousavii&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farshidmousavii&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+- GitHub: https://github.com/farshidmousavii
+- Email: s.farshid.mousavi@gmail.com
+- Website: https://farshiid.ir
